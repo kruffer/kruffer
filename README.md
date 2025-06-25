@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kaio Ruffer
 
-- 🖥️ Hoje eu trabalho com Back-end e Front-end.
+- 🖥️ Hoje eu trabalho com Back-end.
 - 📕 Estudando:
 - Java
 - Banco de Dados SQL
